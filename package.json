@@ -13,10 +13,6 @@
     "type": "git",
     "url": "https://github.com/lwille/node-gphoto2.git"
   },
-  "os": [
-    "darwin",
-    "linux"
-  ],
   "main": "index.js",
   "dependencies": {
     "nan": "^2.14.0"
